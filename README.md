@@ -1,3 +1,8 @@
+<img src="https://github.com/Andson-Sillas/we-care/blob/main/Mockup-We-Care.png">
+<br>
+<h1>Link do projeto</h1>
+<a href="https://andson-sillas.github.io/we-care/"></a>
+<br>
 💻 Projeto "We Care" – Página Estática com HTML e CSS
 Este projeto consiste em uma página web estática criada com HTML e CSS, com o objetivo de apresentar um layout moderno e responsivo voltado para um serviço de cuidados com pets chamado We Care.
 
